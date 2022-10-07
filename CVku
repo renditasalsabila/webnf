@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+     <title>CV Rendita Salsabila</title>
+</head>
+<body>
+      <h1 align= "center">CV Rendita Salsabila</h1>
+      <p> Saya mahasiswa kampus STT NF semester 1 prodi Sistem Informasi. saya seorang mahasiswa baru <br><br>Berikut detail dari diri saya</p>
+      <hr>
+      
+      <h3>Foto saya</h3>
+      <img src="https://photos.app.goo.gl/5g6PSNXpbszGXk2h7"alt="gambar profil"height="250" width="150"
+      <br>
+       <hr>
+       
+       <h3>Detail diri</h3>
+       <ol align="left">
+           <li>
+               <b>
+                   <i>Nama : Rendita Salsabila</i>
+                </b>
+           </li>
+           <li>NIM : 0110122237</li>
+           <li>rombel : SI10</li>
+           <li>Domisili : Sukabumi</li>
+       </ol>
+       <hr> <h3>Riwayat Pendidikan</h3>
+       <ol align="left">
+       
+           <li>MI CILUTUNG </li>
+           <li>MTS SI 01 PARAKANSALAK </li>
+           <li>MA Tarbiyatul Huda </li>
+       </ol>
+       <hr>
+       
+       <h3>Hobi : </h3>
+    <ul>
+       <li>Nyanyi</li>
+       <li>Mendengarkan musik</li>
+       <li>Nonton flm</li>
+       <li>Bermain Games Online</li>
+    </ul>
+    <hr>
+    
+    </body>
+    </html>
